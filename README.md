@@ -19,13 +19,17 @@ Handle faculty information with a clear and intuitive interface.
 
 # Tech Stack🛠️
 Language: Java ☕
+
 Database: PostgreSQL 🛢️
+
 ORM Framework: Jakarta Persistence API (JPA) 🔄
+
 Design Patterns:
-Singleton 🧩
-DAO (Data Access Object) 📂
-MVC (Model-View-Controller) 🎭
-Strategy 🛠️
+
+Singleton 🧩, 
+DAO (Data Access Object) 📂, 
+MVC (Model-View-Controller) 🎭, 
+Strategy 🛠️, 
 Facade 🏢
 
 # Highlights🎯
