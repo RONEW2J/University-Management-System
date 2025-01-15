@@ -37,6 +37,3 @@ Scalable Architecture: Leveraging design patterns for future extensibility.
 Seamless Database Integration: JPA simplifies data persistence and retrieval.
 User-Friendly Interface: A clean, console-based interface for smooth navigation.
 Decoupled Codebase: Separation of concerns ensures easy maintenance and testing.
-
-# Contributing🤝
-Contributions are welcome! Whether it’s fixing bugs 🐞, adding features ✨, or improving documentation 📖, feel free to open a pull request or issue.
